@@ -1,0 +1,3 @@
+name: import-pulumi
+runtime: nodejs
+description: Attempt to import pulumi in JS
